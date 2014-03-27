@@ -1,0 +1,5 @@
+## Title: ESO Keybind Manager
+## APIVersion: 100000
+## SavedVariables: KeybindManager_SavedVariables
+
+KeybindManager.lua
